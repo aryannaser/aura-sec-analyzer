@@ -144,4 +144,4 @@ This project is currently in active development. Future plans include:
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. See the `LICENSE` file for details.
 
-For inquiries about commercial licensing, please contact **[Your Name or Your Email]**.
+For inquiries about commercial licensing, please contact **[aryanznaser@gmail.com]**.
